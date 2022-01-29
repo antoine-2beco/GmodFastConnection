@@ -1,4 +1,4 @@
-# ENGLISH
+# English
 ## GmodFastConnection
 A small program that allows quick connection to a Garry's Mod server that is full.
 
@@ -16,7 +16,7 @@ Do not open anything in full screen while the process is starting.
 Please don't use when server isn't full.
 
 
-# FRANCAIS
+# Français
 ## GmodFastConnection
 Un petit programme qui permet une connexion rapide à un serveur Garry's Mod qui est plein.
 
